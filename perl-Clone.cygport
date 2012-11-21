@@ -1,0 +1,11 @@
+CPAN_AUTHOR=rdf
+inherit perl
+
+NAME="perl-Clone"
+VERSION=0.31
+RELEASE=1
+CATEGORY="Perl"
+SUMMARY="Perl datatype copying method"
+DESCRIPTION="This module provides a clone() method which makes recursive copies
+of nested hash, array, scalar and reference types, including tied variables and
+objects."
