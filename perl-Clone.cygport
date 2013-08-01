@@ -1,8 +1,8 @@
-CPAN_AUTHOR=rdf
+CPAN_AUTHOR=garu
 inherit perl
 
 NAME="perl-Clone"
-VERSION=0.31
+VERSION=0.34
 RELEASE=1
 CATEGORY="Perl"
 SUMMARY="Perl datatype copying method"
